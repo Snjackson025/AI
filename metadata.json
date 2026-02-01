@@ -1,0 +1,7 @@
+{
+  "name": "OmniFlow AI - Multi-Niche Business Automation",
+  "description": "A comprehensive AI-driven business platform for managing diverse services from cleaning to exorcism, featuring an AI receptionist, dialer, and booking system.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
