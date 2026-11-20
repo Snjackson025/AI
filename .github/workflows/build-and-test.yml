@@ -1,6 +1,9 @@
 name: Build and Test AI
 
 on:
+  # Runs every day at 06:00 UTC (01:00 EST).
+  schedule:
+    - cron: '0 6 * * *'
   push:
     branches: [ main, master ]
   pull_request:
